@@ -1,0 +1,13 @@
+* Novels.org 
+  Read Novels in plain text | *Life +70*
+
+* Brought to you with:
+*Source*: [[https://www.gutenberg.org/][Project Gutenberg]]
+*Epub to Org*: [[https://pandoc.org/][Pandoc]]
+*Table of Contents*: [[https://github.com/alphapapa/org-make-toc][org-make-toc]]
+
+* Development
+  Bug reports, feature requests, suggestions..
+  
+* License
+  GPLv3
