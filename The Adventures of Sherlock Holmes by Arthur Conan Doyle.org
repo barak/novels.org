@@ -5,26 +5,23 @@
 #+TITLE: The Adventures of Sherlock Holmes
 #+AUTHOR: Arthur Conan Doyle
 
-* Table of Contents
-:PROPERTIES:
-:TOC:      this
-:END:
-  -  [[#arthur-conan-doyle][Arthur Conan Doyle]]
-  -  [[#adventure-1-a-scandal-in-bohemia][ADVENTURE 1: “A SCANDAL IN BOHEMIA”]]
-    -  [[#part-1][Part 1]]
-    -  [[#part-2][Part 2]]
-    -  [[#part-3][Part 3]]
-  -  [[#adventure-2-the-red-headed-league][ADVENTURE 2: “THE RED-HEADED LEAGUE”]]
-  -  [[#adventure-3-a-case-of-identity][ADVENTURE 3: “A CASE OF IDENTITY”]]
-  -  [[#adventure-4-the-boscombe-valley-mystery][ADVENTURE 4: “THE BOSCOMBE VALLEY MYSTERY”*]]
-  -  [[#adventure-5-the-five-orange-pips][ADVENTURE 5: “THE FIVE ORANGE PIPS”]]
-  -  [[#adventure-6-the-man-with-the-twisted-lip][ADVENTURE 6: “THE MAN WITH THE TWISTED LIP”]]
-  -  [[#adventure-7-the-adventure-of-the-blue-carbuncle][ADVENTURE 7: “THE ADVENTURE OF THE BLUE CARBUNCLE”]]
-  -  [[#adventure-8-the-adventure-of-the-speckled-band][ADVENTURE 8: “THE ADVENTURE OF THE SPECKLED BAND”]]
-  -  [[#adventure-9-the-adventure-of-the-engineers-thumb][ADVENTURE 9: “THE ADVENTURE OF THE ENGINEER’S THUMB”]]
-  -  [[#adventure-10-the-adventure-of-the-noble-bachelor][ADVENTURE 10: “THE ADVENTURE OF THE NOBLE BACHELOR”]]
-  -  [[#adventure-11-the-adventure-of-the-beryl-coronet][ADVENTURE 11: “THE ADVENTURE OF THE BERYL CORONET”]]
-  -  [[#adventure-12-the-adventure-of-the-copper-beeches][ADVENTURE 12: “THE ADVENTURE OF THE COPPER BEECHES”]]
+* Table of Contents                                                       :TOC:
+- [[#arthur-conan-doyle][Arthur Conan Doyle]]
+- [[#adventure-1-a-scandal-in-bohemia][ADVENTURE 1: “A SCANDAL IN BOHEMIA”]]
+  - [[#part-1][Part 1]]
+  - [[#part-2][Part 2]]
+  - [[#part-3][Part 3]]
+- [[#adventure-2-the-red-headed-league][ADVENTURE 2: “THE RED-HEADED LEAGUE”]]
+- [[#adventure-3-a-case-of-identity][ADVENTURE 3: “A CASE OF IDENTITY”]]
+- [[#adventure-4-the-boscombe-valley-mystery][ADVENTURE 4: “THE BOSCOMBE VALLEY MYSTERY”*]]
+- [[#adventure-5-the-five-orange-pips][ADVENTURE 5: “THE FIVE ORANGE PIPS”]]
+- [[#adventure-6-the-man-with-the-twisted-lip][ADVENTURE 6: “THE MAN WITH THE TWISTED LIP”]]
+- [[#adventure-7-the-adventure-of-the-blue-carbuncle][ADVENTURE 7: “THE ADVENTURE OF THE BLUE CARBUNCLE”]]
+- [[#adventure-8-the-adventure-of-the-speckled-band][ADVENTURE 8: “THE ADVENTURE OF THE SPECKLED BAND”]]
+- [[#adventure-9-the-adventure-of-the-engineers-thumb][ADVENTURE 9: “THE ADVENTURE OF THE ENGINEER’S THUMB”]]
+- [[#adventure-10-the-adventure-of-the-noble-bachelor][ADVENTURE 10: “THE ADVENTURE OF THE NOBLE BACHELOR”]]
+- [[#adventure-11-the-adventure-of-the-beryl-coronet][ADVENTURE 11: “THE ADVENTURE OF THE BERYL CORONET”]]
+- [[#adventure-12-the-adventure-of-the-copper-beeches][ADVENTURE 12: “THE ADVENTURE OF THE COPPER BEECHES”]]
 
 * Arthur Conan Doyle
 
