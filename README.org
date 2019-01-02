@@ -1,6 +1,7 @@
 * Novels.org 
-  Read Novels in plain text | *Life +70*
+  Read Novels in plain text.
 
+  
 * Brought to you with:
 *Source*: [[https://www.gutenberg.org/][Project Gutenberg]]
 
@@ -11,5 +12,6 @@
 * Help us:
   Send your Org Books, Error reports, feature requests, suggestions..
   
-* License
-  GPLv3
+* Licenses  
+  *Books*: /Life +70/
+  *Project*: /GPLv3/
