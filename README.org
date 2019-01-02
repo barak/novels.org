@@ -27,4 +27,4 @@
 * Licenses  
   *Project Gutenberg*: https://www.gutenberg.org/wiki/Gutenberg:Terms_of_Use
   
-  *Novels.org*: /GPLv3/
+  *Novels.org*: /GPL-3.0/
