@@ -3,10 +3,12 @@
 
 * Brought to you with:
 *Source*: [[https://www.gutenberg.org/][Project Gutenberg]]
+
 *Epub to Org*: [[https://pandoc.org/][Pandoc]]
+
 *Table of Contents*: [[https://github.com/alphapapa/org-make-toc][org-make-toc]]
 
-* Development
+* Help us:
   Bug reports, feature requests, suggestions..
   
 * License
