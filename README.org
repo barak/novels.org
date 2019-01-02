@@ -10,7 +10,7 @@
 * Read with:
   [[https://www.gnu.org/software/emacs/][GNU Emacs]]
 
-  [[https://code.visualstudio.com/][Visual Studio Code]]: [[https://github.com/vscode-org-mode/vscode-org-mode][VSCode Org-Mode]]
+  [[https://code.visualstudio.com/][Visual Studio Code]]
   
   [[http://www.orgzly.com/][Orgzly]]
   
