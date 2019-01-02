@@ -1,7 +1,10 @@
 * Novels.org 
   Read Novels in plain text.
 
-  
+* Books list:  
+  [[file:Leagues%20Under%20the%20Sea%20by%20Jules%20Verne.org][Leagues Under the Sea by Jules Verne]] 
+  [[file:The%20Adventures%20of%20Sherlock%20Holmes%20by%20Arthur%20Conan%20Doyle.org][The Adventures of Sherlock Holmes by Arthur Conan Doyle]]
+  [[file:The%20Return%20of%20Sherlock%20Holmes%20by%20Arthur%20Conan%20Doyle.org][The Return of Sherlock Holmes]]
 * Brought to you with:
 *Source*: [[https://www.gutenberg.org/][Project Gutenberg]]
 
@@ -13,5 +16,5 @@
   Send your Org Books, Error reports, feature requests, suggestions..
   
 * Licenses  
-  *Books*: /Life +70/
-  *Project*: /GPLv3/
+  *Project Gutenberg*: https://www.gutenberg.org/wiki/Gutenberg:Terms_of_Use
+  *Novels.org*: /GPLv3/
