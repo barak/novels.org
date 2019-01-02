@@ -9,7 +9,7 @@
 *Table of Contents*: [[https://github.com/alphapapa/org-make-toc][org-make-toc]]
 
 * Help us:
-  Bug reports, feature requests, suggestions..
+  Send your Org Books, Error reports, feature requests, suggestions..
   
 * License
   GPLv3
