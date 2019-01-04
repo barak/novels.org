@@ -11,8 +11,6 @@
   [[file:The%20Call%20of%20Cthulhu%20by%20Howard%20Phillips%20Lovecraft.org][The Call of Cthulhu by Howard Phillips Lovecraft]]
 * Read with:
   [[https://www.gnu.org/software/emacs/][GNU Emacs]]
-
-  [[https://code.visualstudio.com/][Visual Studio Code]]
   
   [[http://www.orgzly.com/][Orgzly]]
   
