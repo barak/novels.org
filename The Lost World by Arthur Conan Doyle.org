@@ -6,6 +6,28 @@
 
 *The Lost World*
 
+* Table of Contents
+  :PROPERTIES:
+  :TOC: this
+  :END:
+  -  [[Arthur Conan Doyle][Arthur Conan Doyle]]
+  -  [[Chapter 1 There Are Heroisms All Round Us][Chapter 1 There Are Heroisms All Round Us]]
+  -  [[Chapter 2 Try Your Luck with Professor Challenger][Chapter 2 Try Your Luck with Professor Challenger]]
+  -  [[Chapter 3 He is a Perfectly Impossible Person][Chapter 3 He is a Perfectly Impossible Person]]
+  -  [[Chapter 4 It's Just the very Biggest Thing in the World][Chapter 4 It's Just the very Biggest Thing in the World]]
+  -  [[Chapter 5 Question!][Chapter 5 Question!]]
+  -  [[Chapter 6 I was the Flail of the Lord][Chapter 6 I was the Flail of the Lord]]
+  -  [[Chapter 7 To-morrow we Disappear into the Unknown][Chapter 7 To-morrow we Disappear into the Unknown]]
+  -  [[Chapter 8 The Outlying Pickets of the New World][Chapter 8 The Outlying Pickets of the New World]]
+  -  [[Chapter 9 Who could have Foreseen it?][Chapter 9 Who could have Foreseen it?]]
+  -  [[Chapter 10 The most Wonderful Things have Happened][Chapter 10 The most Wonderful Things have Happened]]
+  -  [[Chapter 11 For once I was the Hero][Chapter 11 For once I was the Hero]]
+  -  [[Chapter 12 It was Dreadful in the Forest][Chapter 12 It was Dreadful in the Forest]]
+  -  [[Chapter 13 A Sight which I shall Never Forget][Chapter 13 A Sight which I shall Never Forget]]
+  -  [[Chapter 14 Those Were the Real Conquests][Chapter 14 Those Were the Real Conquests]]
+  -  [[Chapter 15 Our Eyes have seen Great Wonders][Chapter 15 Our Eyes have seen Great Wonders]]
+  -  [[Chapter 16 A Procession! A Procession!][Chapter 16 A Procession! A Procession!]]
+
 * Arthur Conan Doyle
 
   *Published:* 1912
@@ -255,7 +277,7 @@
   three-and-twenty in the fever of his first love.
 
 * Chapter 2 Try Your Luck with Professor Challenger
-  
+
   I always liked McArdle, the crabbed, old, round-backed, red-headed news
   editor, and I rather hoped that he liked me. Of course, Beaumont was the
   real boss; but he lived in the rarefied atmosphere of some Olympian
@@ -7759,4 +7781,3 @@
 ;; Local Variables:
 ;; eval: (read-only-mode)
 ;; End:
-  

@@ -1,12 +1,6 @@
 * Novels.org 
   *Read Novels in plain text.*
 
-  Our books are carefully formatted to fully support Emacs Org-mode features only!
-
-  Any software that supports Org-mode features might work, but they are out of our scope.
-
-  Either way, Org files are just plain text, so any text reader will do. 
-
 * Books
   [[file:Leagues%20Under%20the%20Sea%20by%20Jules%20Verne.org][Leagues Under the Sea by Jules Verne]]
 
@@ -22,7 +16,11 @@
 * Read with
   [[https://www.gnu.org/software/emacs/][GNU Emacs]]
 
-  [[http://www.orgzly.com/][Orgzly]]
+  Our books are carefully formatted to fully support Emacs Org-mode features only!
+
+  Any software that supports Org-mode features might work, but they are out of our scope.
+
+  Either way, Org files are just plain text, so any text reader will do. 
   
 * Brought to you with
   *Source*: [[https://www.gutenberg.org/][Project Gutenberg]]
