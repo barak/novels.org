@@ -4,28 +4,29 @@
 #+TITLE: The Return of Sherlock Holmes
 #+AUTHOR: Arthur Conan Doyle
 
-* Table of Contents                                           :TOC:
-- [[#arthur-conan-doyle][Arthur Conan Doyle]]
-- [[#the-adventure-of-the-empty-house][The Adventure of the Empty House]]
-- [[#the-adventure-of-the-norwood-builder][The Adventure of the Norwood Builder]]
-- [[#the-adventure-of-the-dancing-men][The Adventure of the Dancing Men]]
-- [[#the-adventure-of-the-solitary-cyclist][The Adventure of the Solitary Cyclist]]
-- [[#the-adventure-of-the-priory-school][The Adventure of the Priory School]]
-- [[#the-adventure-of-black-peter][The Adventure of Black Peter]]
-- [[#the-adventure-of-charles-augustus-milverton][The Adventure of Charles Augustus Milverton]]
-- [[#the-adventure-of-the-six-napoleons][The Adventure of the Six Napoleons]]
-- [[#the-adventure-of-the-three-students][The Adventure of the Three Students]]
-- [[#the-adventure-of-the-golden-pince-nez][The Adventure of the Golden Pince-Nez]]
-- [[#the-adventure-of-the-missing-three-quarter][The Adventure of the Missing Three-Quarter]]
-- [[#the-adventure-of-the-abbey-grange][The Adventure of the Abbey Grange]]
-- [[#the-adventure-of-the-second-stain][The Adventure of the Second Stain]]
+* Table of Contents
+  :PROPERTIES:
+  :TOC: this
+  :END:
+  -  [[Arthur Conan Doyle][Arthur Conan Doyle]]
+  -  [[The Adventure of the Empty House][The Adventure of the Empty House]]
+  -  [[The Adventure of the Norwood Builder][The Adventure of the Norwood Builder]]
+  -  [[The Adventure of the Dancing Men][The Adventure of the Dancing Men]]
+  -  [[The Adventure of the Solitary Cyclist][The Adventure of the Solitary Cyclist]]
+  -  [[The Adventure of the Priory School][The Adventure of the Priory School]]
+  -  [[The Adventure of Black Peter][The Adventure of Black Peter]]
+  -  [[The Adventure of Charles Augustus Milverton][The Adventure of Charles Augustus Milverton]]
+  -  [[The Adventure of the Six Napoleons][The Adventure of the Six Napoleons]]
+  -  [[The Adventure of the Three Students][The Adventure of the Three Students]]
+  -  [[The Adventure of the Golden Pince-Nez][The Adventure of the Golden Pince-Nez]]
+  -  [[The Adventure of the Missing Three-Quarter][The Adventure of the Missing Three-Quarter]]
+  -  [[The Adventure of the Abbey Grange][The Adventure of the Abbey Grange]]
+  -  [[The Adventure of the Second Stain][The Adventure of the Second Stain]]
 
 * Arthur Conan Doyle
 
    *Published:* 1905
-
    *Categorie(s):* Fiction, Mystery & Detective, Short Stories
-
    *Source:* Wikisource
 
    *About Doyle:*
