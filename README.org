@@ -9,18 +9,25 @@
 
 * Books
   [[file:Leagues%20Under%20the%20Sea%20by%20Jules%20Verne.org][Leagues Under the Sea by Jules Verne]]
+
   [[file:The%20Adventures%20of%20Sherlock%20Holmes%20by%20Arthur%20Conan%20Doyle.org][The Adventures of Sherlock Holmes by Arthur Conan Doyle]]
-  [[file:The%20Call%20of%20Cthulhu%20by%20Howard%20Phillips%20Lovecraft.org][The Call of Cthulhu by Howard Phillips Lovecraft]]
-  [[file:The%20Woman%20in%20Black%20by%20E.C.%20Bentley.org][The Woman in Black by E.C. Bentley]]
-  [[file:The%20Return%20of%20Sherlock%20Holmes%20by%20Arthur%20Conan%20Doyle.org][The Return of Sherlock Holmes by Arthur Conan Doyle]]
+  [[file:The%20Call%20of%20Cthulhu%20by%20Howard%20Phillips%20Lovecraft.org][
+  The Call of Cthulhu by Howard Phillips Lovecraft]]
+  [[file:The%20Woman%20in%20Black%20by%20E.C.%20Bentley.org][
+  The Woman in Black by E.C. Bentley]]
+  [[file:The%20Return%20of%20Sherlock%20Holmes%20by%20Arthur%20Conan%20Doyle.org][
+  The Return of Sherlock Holmes by Arthur Conan Doyle]]
 
 * Read with
   [[https://www.gnu.org/software/emacs/][GNU Emacs]]
+
   [[http://www.orgzly.com/][Orgzly]]
   
 * Brought to you with
   *Source*: [[https://www.gutenberg.org/][Project Gutenberg]]
+
   *Epub to Org*: [[https://pandoc.org/][Pandoc]]
+  
   *Table of Contents*: [[https://github.com/alphapapa/org-make-toc][org-make-toc]]
 
 * Help us
@@ -31,4 +38,5 @@
   
 * Licenses  
   *Project Gutenberg*: https://www.gutenberg.org/wiki/Gutenberg:Terms_of_Use
+  
   *Novels.org*: /GPL-3.0/
