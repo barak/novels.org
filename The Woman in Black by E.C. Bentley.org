@@ -11,7 +11,6 @@
   :TOC: this
   :END:
   -  [[E.C. Bentley][E.C. Bentley]]
-  -  [[TO GILBERT KEITH CHESTERTON][TO GILBERT KEITH CHESTERTON]]
   -  [[PROLOGUE][PROLOGUE]]
   -  [[Chapter 1 KNOCKING THE TOWN ENDWAYS][Chapter 1 KNOCKING THE TOWN ENDWAYS]]
   -  [[Chapter 2 BREAKFAST][Chapter 2 BREAKFAST]]
@@ -70,35 +69,7 @@
   ---/Hamlet/.
   #+END_QUOTE
 
-* TO GILBERT KEITH CHESTERTON
-
-  /My dear Gilbert/:
-
-  I dedicate this story to you. First: because the only really noble
-  motive I had in writing it was the hope that you would enjoy it. Second:
-  because I owe you a book in return for "The Man Who Was Thursday."
-  Third: because I said I would when I unfolded the plan of it to you,
-  surrounded by Frenchmen, two years ago. Fourth: because I remember the
-  past.
-
-  I have been thinking again to-day of those astonishing times when
-  neither of us ever looked at a newspaper; when we were purely happy in
-  the boundless consumption of paper, pencils, tea and our elders'
-  patience; when we embraced the most severe literature, and ourselves
-  produced such light reading as was necessary; when (in the words of
-  Canada's poet) we studied the works of nature, also those little frogs;
-  when, in short, we were extremely young.
-
-  For the sake of that age I offer you this book.
-
-  Yours always,
-
-  E. C. Bentley.
-
-   
-
 * PROLOGUE
-
 
   Between what matters and what seems to matter, how should the world we
   know judge wisely?
@@ -313,7 +284,7 @@
 
 * Chapter 1 KNOCKING THE TOWN ENDWAYS
 
-  In the only comfortably furnished room in the offices of the /Record/,
+  In the only comfortably furnished room in the offices of the Record,
   the telephone on Sir James Molloy's table buzzed. Sir James made a
   motion with his pen, and Mr. Silver, his secretary, left his work and
   came over to the instrument.
@@ -6738,3 +6709,8 @@
   And /you/ shall pay for the dinner."
 
   *THE END*
+
+;; * LOCAL VARIABLES
+;; Local Variables:
+;; eval: (read-only-mode)
+;; End:
