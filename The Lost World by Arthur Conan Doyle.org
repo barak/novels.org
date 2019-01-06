@@ -580,7 +580,7 @@
   Austin, when you call, as he has to take every precaution to shield me
   from the intrusive rascals who call themselves 'journalists.'
 
-   ? ? ? "Yours faithfully,
+  "Yours faithfully,
 
    ? ? ? "George Edward Challenger."
 
@@ -7754,3 +7754,9 @@
   Lord Roxton said nothing, but a brown hand was stretched out to me
   across the table.
 
+
+;; * LOCAL VARIABLES
+;; Local Variables:
+;; eval: (read-only-mode)
+;; End:
+  
