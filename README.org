@@ -7,12 +7,16 @@
   [[file:The%20Adventures%20of%20Sherlock%20Holmes%20by%20Arthur%20Conan%20Doyle.org][The Adventures of Sherlock Holmes by Arthur Conan Doyle]]
   
   [[file:The%20Call%20of%20Cthulhu%20by%20Howard%20Phillips%20Lovecraft.org][The Call of Cthulhu by Howard Phillips Lovecraft]]
-  
-  [[file:The%20Woman%20in%20Black%20by%20E.C.%20Bentley.org][The Woman in Black by E.C. Bentley]]
 
   [[file:The%20Lost%20World%20by%20Arthur%20Conan%20Doyle.org][The Lost World by Arthur Conan Doyle]]
-    
+  
   [[file:The%20Return%20of%20Sherlock%20Holmes%20by%20Arthur%20Conan%20Doyle.org][The Return of Sherlock Holmes by Arthur Conan Doyle]]
+    
+  [[file:The%20Woman%20in%20Black%20by%20E.C.%20Bentley.org][The Woman in Black by E.C. Bentley]]
+
+  [[file:Ulysses%20by%20James%20Joyce.org][Ulysses by James Joyce]]
+
+  [[file:Tarzan%20of%20the%20Apes%20by%20Edgar%20Rice%20Burroughs.org][Tarzan of the Apes]]
 * Read with
   [[https://www.gnu.org/software/emacs/][GNU Emacs]]
 
