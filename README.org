@@ -4,10 +4,16 @@
 * Books
   [[file:Leagues%20Under%20the%20Sea%20by%20Jules%20Verne.org][Leagues Under the Sea by Jules Verne]]
 
+  [[file:Moby%20Dick%20by%20Herman%20Melville.org][Moby Dick by Herman Melville]]
+    
+  [[file:Tarzan%20of%20the%20Apes%20by%20Edgar%20Rice%20Burroughs.org][Tarzan of the Apes]]
+  
   [[file:The%20Adventures%20of%20Sherlock%20Holmes%20by%20Arthur%20Conan%20Doyle.org][The Adventures of Sherlock Holmes by Arthur Conan Doyle]]
   
   [[file:The%20Call%20of%20Cthulhu%20by%20Howard%20Phillips%20Lovecraft.org][The Call of Cthulhu by Howard Phillips Lovecraft]]
 
+  [[file:The%20Casebook%20of%20Sherlock%20Holmes%20by%20Arthur%20Conan%20Doyle.org][The Casebook of Sherlock Holmes by Arthur Conan Doyle]]
+  
   [[file:The%20Lost%20World%20by%20Arthur%20Conan%20Doyle.org][The Lost World by Arthur Conan Doyle]]
   
   [[file:The%20Return%20of%20Sherlock%20Holmes%20by%20Arthur%20Conan%20Doyle.org][The Return of Sherlock Holmes by Arthur Conan Doyle]]
@@ -16,7 +22,6 @@
 
   [[file:Ulysses%20by%20James%20Joyce.org][Ulysses by James Joyce]]
 
-  [[file:Tarzan%20of%20the%20Apes%20by%20Edgar%20Rice%20Burroughs.org][Tarzan of the Apes]]
 * Read with
   [[https://www.gnu.org/software/emacs/][GNU Emacs]]
 
