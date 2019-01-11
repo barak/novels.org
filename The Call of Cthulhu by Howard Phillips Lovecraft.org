@@ -7,9 +7,6 @@
 *The Call of Cthulhu*
 
 * Table of Contents
-  :PROPERTIES:
-  :TOC: this
-  :END:
   -  [[Howard Phillips Lovecraft][Howard Phillips Lovecraft]]
   -  [[Chapter 1 The Horror In Clay][Chapter 1 The Horror In Clay]]
   -  [[Chapter 2 The Tale of Inspector Legrasse][Chapter 2 The Tale of Inspector Legrasse]]

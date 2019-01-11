@@ -7,9 +7,6 @@
 *The Woman in Black*
 
 * Table of Contents
-  :PROPERTIES:
-  :TOC: this
-  :END:
   -  [[E.C. Bentley][E.C. Bentley]]
   -  [[PROLOGUE][PROLOGUE]]
   -  [[Chapter 1 KNOCKING THE TOWN ENDWAYS][Chapter 1 KNOCKING THE TOWN ENDWAYS]]

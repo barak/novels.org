@@ -7,9 +7,6 @@
 *20,000 Leagues Under the Sea* by *Jules Verne*
 
 * Table of Contents
-  :PROPERTIES:
-  :TOC: this
-  :END:
   -  [[Jules Verne][Jules Verne]]
   -  [[Part 1][Part 1]]
     -  [[Chapter 1 A Runaway Reef][Chapter 1 A Runaway Reef]]

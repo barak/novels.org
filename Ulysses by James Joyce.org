@@ -8,9 +8,6 @@
 *Ulysses*
 
 * Table of Contents
-  :PROPERTIES:
-  :TOC: this
-  :END:
   -  [[James Joyce][James Joyce]]
   -  [[Part 1][Part 1]]
   -  [[Part 2][Part 2]]

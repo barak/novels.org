@@ -7,9 +7,6 @@
 *Tarzan of the Apes*
 
 * Table of Contents
-  :PROPERTIES:
-  :TOC: this
-  :END:
   -  [[Edgar Rice Burroughs][Edgar Rice Burroughs]]
   -  [[Chapter 1 Out to Sea][Chapter 1 Out to Sea]]
   -  [[Chapter 2 The Savage Home][Chapter 2 The Savage Home]]

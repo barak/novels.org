@@ -7,9 +7,6 @@
 *Moby-Dick*
 
 * Table of Contents
-  :PROPERTIES:
-  :TOC: this
-  :END:
   -  [[Herman Melville][Herman Melville]]
     -  [[ETYMOLOGY (Supplied by a Late Consumptive Usher to a Grammar School)][ETYMOLOGY (Supplied by a Late Consumptive Usher to a Grammar School)]]
     -  [[EXTRACTS (Supplied by a Sub-Sub-Librarian).][EXTRACTS (Supplied by a Sub-Sub-Librarian).]]

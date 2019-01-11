@@ -7,9 +7,6 @@
 *The Casebook of Sherlock Holmes*
 
 * Table of Contents
-  :PROPERTIES:
-  :TOC: this
-  :END:
   -  [[Arthur Conan Doyle][Arthur Conan Doyle]]
   -  [[Preface][Preface]]
   -  [[Chapter 1 The Adventure of the Mazarin Stone][Chapter 1 The Adventure of the Mazarin Stone]]

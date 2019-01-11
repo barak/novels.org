@@ -7,9 +7,6 @@
 *The War of the Worlds*
 
 * Table of Contents
-  :PROPERTIES:
-  :TOC: this
-  :END:
   -  [[H. G. Wells][H. G. Wells]]
   -  [[Part 1][Part 1]]
     -  [[Chapter 1 The Eve of the War][Chapter 1 The Eve of the War]]

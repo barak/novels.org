@@ -5,9 +5,6 @@
 #+AUTHOR: Arthur Conan Doyle
 
 * Table of Contents
-  :PROPERTIES:
-  :TOC: this
-  :END:
   -  [[Arthur Conan Doyle][Arthur Conan Doyle]]
   -  [[The Adventure of the Empty House][The Adventure of the Empty House]]
   -  [[The Adventure of the Norwood Builder][The Adventure of the Norwood Builder]]
