@@ -1,10 +1,8 @@
 # -*- mode: org -*-
 # -*- coding: utf-8 -*-
 #+LANGUAGE: en
-#+TITLE: Moby-Dick
 #+AUTHOR: Herman Melville
-
-*Moby-Dick*
+#+TITLE: Moby-Dick
 
 * Table of Contents
   -  [[Herman Melville][Herman Melville]]
