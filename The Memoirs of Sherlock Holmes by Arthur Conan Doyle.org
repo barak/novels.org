@@ -1,10 +1,6 @@
-# -*- mode: org -*-
-# -*- coding: utf-8 -*-
 #+LANGUAGE: en
-#+TITLE: The Memoirs of Sherlock Holmes
 #+AUTHOR: Arthur Conan Doyle
-
-*The Memoirs of Sherlock Holmes*
+#+TITLE: The Memoirs of Sherlock Holmes
 
 * Table of Contents
   -  [[Arthur Conan Doyle][Arthur Conan Doyle]]

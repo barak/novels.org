@@ -1,9 +1,6 @@
-# -*- mode: org -*-
-# -*- coding: utf-8 -*-
 #+LANGUAGE: en
-#+DATE: 2011-02-13
-#+TITLE: The Great Gatsby
 #+AUTHOR: Francis Scott Fitzgerald
+#+TITLE: The Great Gatsby
 
 * Table of Contents
   -  [[Francis Scott Fitzgerald][Francis Scott Fitzgerald]]

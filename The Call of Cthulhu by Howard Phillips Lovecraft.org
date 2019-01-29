@@ -1,10 +1,5 @@
-# -*- mode: org -*-
-# -*- coding: utf-8 -*-
-#+LANGUAGE: en
-#+TITLE: The Call of Cthulhu
 #+AUTHOR: Howard Phillips Lovecraft
-
-*The Call of Cthulhu*
+#+TITLE: The Call of Cthulhu
 
 * Table of Contents
   -  [[Howard Phillips Lovecraft][Howard Phillips Lovecraft]]

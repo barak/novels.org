@@ -1,9 +1,6 @@
-# -*- mode: org -*-
-# -*- coding: utf-8 -*-
 #+LANGUAGE: en
-#+STARTUP: overview
-#+TITLE: The Adventures of Sherlock Holmes
 #+AUTHOR: Arthur Conan Doyle
+#+TITLE: The Adventures of Sherlock Holmes
 
 * Table of Contents
   -  [[Arthur Conan Doyle][Arthur Conan Doyle]]

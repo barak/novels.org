@@ -1,10 +1,6 @@
-# -*- mode: org -*-
-# -*- coding: utf-8 -*-
 #+LANGUAGE: en
-#+TITLE: The Lost World
 #+AUTHOR: Arthur Conan Doyle
-
-*The Lost World*
+#+TITLE: The Lost World
 
 * Table of Contents
   -  [[Arthur Conan Doyle][Arthur Conan Doyle]]

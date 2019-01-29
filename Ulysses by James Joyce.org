@@ -1,11 +1,6 @@
-# -*- mode: org -*-
-# -*- coding: utf-8 -*-
 #+LANGUAGE: en
-#+STARTUP: overview
-#+TITLE: Ulysses
 #+AUTHOR: James Joyce
-
-*Ulysses*
+#+TITLE: Ulysses
 
 * Table of Contents
   -  [[James Joyce][James Joyce]]

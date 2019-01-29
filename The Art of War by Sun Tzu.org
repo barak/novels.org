@@ -1,10 +1,5 @@
-# -*- mode: org -*-
-# -*- coding: utf-8 -*-
-#+LANGUAGE: en
-#+TITLE: The Art of War
 #+AUTHOR: Sun Tzu
-
-*The Art of War*
+#+TITLE: The Art of War
 
 * Table of Contents
   -  [[Sun Tzu][Sun Tzu]]

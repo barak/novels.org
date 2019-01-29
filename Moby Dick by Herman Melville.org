@@ -1,5 +1,3 @@
-# -*- mode: org -*-
-# -*- coding: utf-8 -*-
 #+LANGUAGE: en
 #+AUTHOR: Herman Melville
 #+TITLE: Moby-Dick

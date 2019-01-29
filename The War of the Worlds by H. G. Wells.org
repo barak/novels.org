@@ -1,10 +1,6 @@
-# -*- mode: org -*-
-# -*- coding: utf-8 -*-
 #+LANGUAGE: en
-#+TITLE: The War of the Worlds
 #+AUTHOR: H. G. Wells
-
-*The War of the Worlds*
+#+TITLE: The War of the Worlds
 
 * Table of Contents
   -  [[H. G. Wells][H. G. Wells]]

@@ -1,8 +1,6 @@
-# -*- mode: org -*-
-# -*- coding: utf-8 -*-
 #+LANGUAGE: en
-#+TITLE: The Outsider
 #+AUTHOR: Howard Phillips Lovecraft
+#+TITLE: The Outsider
 
 * Table of Contents
   -  [[Howard Phillips Lovecraft][Howard Phillips Lovecraft]]

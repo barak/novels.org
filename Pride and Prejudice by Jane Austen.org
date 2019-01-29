@@ -1,10 +1,6 @@
-# -*- mode: org -*-
-# -*- coding: utf-8 -*-
 #+LANGUAGE: en
-#+TITLE: Pride and Prejudice
 #+AUTHOR: Jane Austen
-
-*Pride and Prejudice*
+#+TITLE: Pride and Prejudice
 
 * Table of Contents
   -  [[Jane Austen][Jane Austen]]

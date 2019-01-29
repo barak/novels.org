@@ -1,8 +1,6 @@
-# -*- mode: org -*-
-# -*- coding: utf-8 -*-
 #+LANGUAGE: en
-#+TITLE: 20,000 Leagues Under the Sea
 #+AUTHOR: Jules Verne
+#+TITLE: 20,000 Leagues Under the Sea
 
 *20,000 Leagues Under the Sea* by *Jules Verne*
 

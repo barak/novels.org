@@ -1,10 +1,6 @@
-# -*- mode: org -*-
-# -*- coding: utf-8 -*-
 #+LANGUAGE: en
-#+TITLE: Tarzan of the Apes
 #+AUTHOR: Edgar Rice Burroughs
-
-*Tarzan of the Apes*
+#+TITLE: Tarzan of the Apes
 
 * Table of Contents
   -  [[Edgar Rice Burroughs][Edgar Rice Burroughs]]
