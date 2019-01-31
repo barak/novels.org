@@ -2,8 +2,6 @@
 #+AUTHOR: Jules Verne
 #+TITLE: 20,000 Leagues Under the Sea
 
-*20,000 Leagues Under the Sea* by *Jules Verne*
-
 * Table of Contents
   -  [[Jules Verne][Jules Verne]]
   -  [[Part 1][Part 1]]
