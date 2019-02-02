@@ -275,7 +275,7 @@
 
 
   
-;; * LOCAL VARIABLES
-;; Local Variables:
-;; eval: (read-only-mode)
-;; End:
+# * LOCAL VARIABLES
+# Local Variables:
+# eval: (read-only-mode)
+# End:

@@ -7769,8 +7769,7 @@
   Lord Roxton said nothing, but a brown hand was stretched out to me
   across the table.
 
-
-;; * LOCAL VARIABLES
-;; Local Variables:
-;; eval: (read-only-mode)
-;; End:
+# * LOCAL VARIABLES
+# Local Variables:
+# eval: (read-only-mode)
+# End:

@@ -2505,7 +2505,8 @@
   then, as I lay down the pen and proceed to seal up my confession, I
   bring the life of that unhappy Henry Jekyll to an end.
 
-  ;; * LOCAL VARIABLES
-  ;; Local Variables:
-  ;; eval: (read-only-mode)
-  ;; End:
+# * LOCAL VARIABLES
+# Local Variables:
+# eval: (read-only-mode)
+# End:
+   

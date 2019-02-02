@@ -12527,7 +12527,7 @@
    "We also have our diplomatic secrets," said he, and picking up his hat
    he turned to the door.
 
-;; * LOCAL VARIABLES
-;; Local Variables:
-;; eval: (read-only-mode)
-;; End:
+# * LOCAL VARIABLES
+# Local Variables:
+# eval: (read-only-mode)
+# End:

@@ -21712,9 +21712,6 @@
   shroud of the sea rolled on as it rolled five thousand years ago.
 
 * Epilogue
-  :PROPERTIES:
-  :CLASS:    section_title
-  :END:
 
   “And I only am escaped alone to tell thee”
 
@@ -21744,7 +21741,8 @@
   her retracing search after her missing children, only found another
   orphan.
 
-;; * LOCAL VARIABLES
-;; Local Variables:
-;; eval: (read-only-mode)
-;; End:
+# * LOCAL VARIABLES
+# Local Variables:
+# eval: (read-only-mode)
+# End:
+   

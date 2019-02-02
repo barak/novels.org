@@ -6182,8 +6182,7 @@
    And strangest of all is it to hold my wife's hand again, and to think
    that I have counted her, and that she has counted me, among the dead
 
-** THE *END*
-   ;; * LOCAL VARIABLES
-   ;; Local Variables:
-   ;; eval: (read-only-mode)
-   ;; End:
+   # * LOCAL VARIABLES
+   # Local Variables:
+   # eval: (read-only-mode)
+   # End:

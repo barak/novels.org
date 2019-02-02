@@ -6701,9 +6701,7 @@
   beaten me. I drink your health in a spirit of self-abasement.
   And /you/ shall pay for the dinner."
 
-  *THE END*
-
-;; * LOCAL VARIABLES
-;; Local Variables:
-;; eval: (read-only-mode)
-;; End:
+# * LOCAL VARIABLES
+# Local Variables:
+# eval: (read-only-mode)
+# End:

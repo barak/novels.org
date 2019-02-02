@@ -6173,8 +6173,8 @@
   daughter, who is to be Peter's mother in turn; and thus it will go on,
   so long as children are gay and innocent and heartless.
 
-
-  ;; * LOCAL VARIABLES
-  ;; Local Variables:
-  ;; eval: (read-only-mode)
-  ;; End:
+# * LOCAL VARIABLES
+# Local Variables:
+# eval: (read-only-mode)
+# End:
+   

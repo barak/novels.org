@@ -9798,7 +9798,7 @@
   regard as the best and the wisest man whom I have ever known.
 
 
-  ;; * LOCAL VARIABLES
-  ;; Local Variables:
-  ;; eval: (read-only-mode)
-  ;; End:
+  # * LOCAL VARIABLES
+  # Local Variables:
+  # eval: (read-only-mode)
+  # End:

@@ -13062,7 +13062,8 @@
    sensible of the warmest gratitude towards the persons who, by bringing
    her into Derbyshire, had been the means of uniting them.
 
-   ;; * LOCAL VARIABLES
-   ;; Local Variables:
-   ;; eval: (read-only-mode)
-   ;; End:
+# * LOCAL VARIABLES
+# Local Variables:
+# eval: (read-only-mode)
+# End:
+   

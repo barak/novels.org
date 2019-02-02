@@ -1,3 +1,4 @@
+#+LANGUAGE: en
 #+AUTHOR: Sun Tzu
 #+TITLE: The Art of War
 
@@ -1652,7 +1653,8 @@
       element in war, because on them depends an army's ability to move.
 
 
-  ;; * LOCAL VARIABLES
-  ;; Local Variables:
-  ;; eval: (read-only-mode)
-  ;; End:
+# * LOCAL VARIABLES
+# Local Variables:
+# eval: (read-only-mode)
+# End:
+   

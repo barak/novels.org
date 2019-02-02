@@ -9929,7 +9929,8 @@
   adventures of my own, for ten years more, I shall give a farther account
   of in the Second Part of my Story.
 
-  ;; * LOCAL VARIABLES
-  ;; Local Variables:
-  ;; eval: (read-only-mode)
-  ;; End:
+# * LOCAL VARIABLES
+# Local Variables:
+# eval: (read-only-mode)
+# End:
+   

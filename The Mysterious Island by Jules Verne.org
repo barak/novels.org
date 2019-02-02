@@ -2,6 +2,74 @@
 #+AUTHOR: Jules Verne
 #+TITLE: The Mysterious Island
 
+* Table of Contents
+  -  [[Jules Verne][Jules Verne]]
+  -  [[Part 1 - Dropped from the clouds][Part 1 - Dropped from the clouds]]
+    -  [[Chapter 1][Chapter 1]]
+    -  [[Chapter 2][Chapter 2]]
+    -  [[Chapter 3][Chapter 3]]
+    -  [[Chapter 4][Chapter 4]]
+    -  [[Chapter 5][Chapter 5]]
+    -  [[Chapter 6][Chapter 6]]
+    -  [[Chapter 7][Chapter 7]]
+    -  [[Chapter 8][Chapter 8]]
+    -  [[Chapter 9][Chapter 9]]
+    -  [[Chapter 10][Chapter 10]]
+    -  [[Chapter 11][Chapter 11]]
+    -  [[Chapter 12][Chapter 12]]
+    -  [[Chapter 13][Chapter 13]]
+    -  [[Chapter 14][Chapter 14]]
+    -  [[Chapter 15][Chapter 15]]
+    -  [[Chapter 16][Chapter 16]]
+    -  [[Chapter 17][Chapter 17]]
+    -  [[Chapter 18][Chapter 18]]
+    -  [[Chapter 19][Chapter 19]]
+    -  [[Chapter 20][Chapter 20]]
+    -  [[Chapter 21][Chapter 21]]
+    -  [[Chapter 22][Chapter 22]]
+  -  [[Part 2 - Abandoned][Part 2 - Abandoned]]
+    -  [[Chapter 1][Chapter 1]]
+    -  [[Chapter 2][Chapter 2]]
+    -  [[Chapter 3][Chapter 3]]
+    -  [[Chapter 4][Chapter 4]]
+    -  [[Chapter 5][Chapter 5]]
+    -  [[Chapter 6][Chapter 6]]
+    -  [[Chapter 7][Chapter 7]]
+    -  [[Chapter 8][Chapter 8]]
+    -  [[Chapter 9][Chapter 9]]
+    -  [[Chapter 10][Chapter 10]]
+    -  [[Chapter 11][Chapter 11]]
+    -  [[Chapter 12][Chapter 12]]
+    -  [[Chapter 13][Chapter 13]]
+    -  [[Chapter 14][Chapter 14]]
+    -  [[Chapter 15][Chapter 15]]
+    -  [[Chapter 16][Chapter 16]]
+    -  [[Chapter 17][Chapter 17]]
+    -  [[Chapter 18][Chapter 18]]
+    -  [[Chapter 19][Chapter 19]]
+    -  [[Chapter 20][Chapter 20]]
+  -  [[Part 3 - The Secret of the Island][Part 3 - The Secret of the Island]]
+    -  [[Chapter 1][Chapter 1]]
+    -  [[Chapter 2][Chapter 2]]
+    -  [[Chapter 3][Chapter 3]]
+    -  [[Chapter 4][Chapter 4]]
+    -  [[Chapter 5][Chapter 5]]
+    -  [[Chapter 6][Chapter 6]]
+    -  [[Chapter 7][Chapter 7]]
+    -  [[Chapter 8][Chapter 8]]
+    -  [[Chapter 9][Chapter 9]]
+    -  [[Chapter 10][Chapter 10]]
+    -  [[Chapter 11][Chapter 11]]
+    -  [[Chapter 12][Chapter 12]]
+    -  [[Chapter 13][Chapter 13]]
+    -  [[Chapter 14][Chapter 14]]
+    -  [[Chapter 15][Chapter 15]]
+    -  [[Chapter 16][Chapter 16]]
+    -  [[Chapter 17][Chapter 17]]
+    -  [[Chapter 18][Chapter 18]]
+    -  [[Chapter 19][Chapter 19]]
+    -  [[Chapter 20][Chapter 20]]
+
 * Jules Verne
   *Published:* 1874
   *Categorie(s):* Fiction, Action & Adventure, Science Fiction
@@ -5134,7 +5202,7 @@
    a fresh title.
 
 ** Chapter 16
-   
+
    It was the 6th of May, a day which corresponds to the 6th of November in
    the countries of the Northern Hemisphere. The sky had been obscured for
    some days, and it was of importance to make preparations for the winter.

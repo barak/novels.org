@@ -15668,7 +15668,8 @@
    exceeding deep, who can find it out?" two men alone of all now living
    have the right to give an answer --- CAPTAIN NEMO AND MYSELF.
 
-   ;; * LOCAL VARIABLES
-   ;; Local Variables:
-   ;; eval: (read-only-mode)
-   ;; End:
+# * LOCAL VARIABLES
+# Local Variables:
+# eval: (read-only-mode)
+# End:
+   

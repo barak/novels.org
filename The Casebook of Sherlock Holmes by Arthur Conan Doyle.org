@@ -9936,7 +9936,7 @@
   from this strange incident in a career which has now outlived its
   shadows and promises to end in an honoured old age.
 
-;; * LOCAL VARIABLES
-;; Local Variables:
-;; eval: (read-only-mode)
-;; End:
+# * LOCAL VARIABLES
+# Local Variables:
+# eval: (read-only-mode)
+# End:
