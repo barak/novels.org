@@ -6394,13 +6394,7 @@
    some other mode of action.
 
 ** Chapter 24
-
-    
-
 *** 1. First part
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     My present situation was one in which all voluntary thought was
     swallowed up and lost. I was hurried away by fury; revenge alone endowed
@@ -6666,11 +6660,7 @@
     your sword into his heart. I will hover near and direct the steel
     aright.
 
-
 *** 2. Walton, in continuation
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     August 26th, 17-
 
